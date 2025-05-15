@@ -1,13 +1,13 @@
-package Peixo.PokeTeamIA;
+package Peixo.IAdeTreinoPOKE;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PokeTeamIaApplication {
+public class IAdeTreinoPokeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PokeTeamIaApplication.class, args);
+		SpringApplication.run(IAdeTreinoPokeApplication.class, args);
 	}
 
 }
